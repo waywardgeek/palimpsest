@@ -16,6 +16,10 @@ A separate chapter construction chain reproduces the accepted source tree withou
 
 1. [Introduction](book/chapter-01.md) — what we are building, why, and how.
 
+## Background paper
+
+[Knowledge Patches: Maintaining Software by Maintaining What Builds It](https://coderhapsody.ai/docs/knowledge-patches) develops the workflow proposal behind Palimpsest: executable teaching, independent reconstruction, and traceable links between knowledge changes and implementation CLs.
+
 ## Status
 
 This repository begins with the Introduction. The Palimpsest CLI, construction manager, and automated KP workflow are not yet implemented. The book and software will develop together through small, tested exercises.
